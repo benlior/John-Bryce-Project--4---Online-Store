@@ -1,6 +1,16 @@
-# Client
+# John Bryce Project - 4 - Online Store
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
+This website was made by Lior Ben by following the course - "Full-Stack Web Development Bootcamp".
+
+<br>
+
+<img width="1428" alt="Screen Shot 2022-03-20 at 19 31 52" src="https://user-images.githubusercontent.com/81048007/159175080-52fb103e-09b0-4497-a9d9-904f5e41b7e4.png">
+
+
+
+<br>
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
 
